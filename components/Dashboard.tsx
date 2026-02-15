@@ -30,7 +30,7 @@ const Dashboard: React.FC<DashboardProps> = ({ orders }) => {
     <div className="space-y-8 animate-in fade-in duration-700">
       <header className="px-2">
         <p className="text-[11px] font-bold text-[#8E8E93] uppercase tracking-widest">Outfit Empire Manager</p>
-        <h2 className="text-3xl font-bold tracking-tight">Painel</h2>
+        <h2 className="text-3xl font-bold tracking-tight">Painel - Auneta Machava</h2>
       </header>
 
       {/* Stats Section - iOS Widget Style */}

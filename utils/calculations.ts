@@ -33,7 +33,7 @@ export const calculateOrderValues = (
 };
 
 export const formatCurrency = (value: number) => {
-  return new Intl.NumberFormat('pt-MZ', {
+  return new Intl.NumberFormat('pt-PT', {
     style: 'currency',
     currency: 'MZN',
   }).format(value);
